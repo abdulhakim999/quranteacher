@@ -1,0 +1,264 @@
+{
+  "number": 97,
+  "name": "سُورَةُ القَدۡرِ",
+  "nameEnglish": "Al-Qadr",
+  "nameTransliteration": "The Power, Fate",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 598,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِّسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 29
+        },
+        {
+          "index": 4,
+          "textUthmani": "إِنَّآ",
+          "textNormalized": "",
+          "charOffset": 40
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَنزَلْنَٰهُ",
+          "textNormalized": "",
+          "charOffset": 48
+        },
+        {
+          "index": 6,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 61
+        },
+        {
+          "index": 7,
+          "textUthmani": "لَيْلَةِ",
+          "textNormalized": "",
+          "charOffset": 65
+        },
+        {
+          "index": 8,
+          "textUthmani": "ٱلْقَدْرِ",
+          "textNormalized": "",
+          "charOffset": 74
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 598,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمَآ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَدْرَىٰكَ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَيْلَةُ",
+          "textNormalized": "",
+          "charOffset": 22
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْقَدْرِ",
+          "textNormalized": "",
+          "charOffset": 31
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 598,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "لَيْلَةُ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْقَدْرِ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "خَيْرٌۭ",
+          "textNormalized": "",
+          "charOffset": 19
+        },
+        {
+          "index": 3,
+          "textUthmani": "مِّنْ",
+          "textNormalized": "",
+          "charOffset": 27
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَلْفِ",
+          "textNormalized": "",
+          "charOffset": 33
+        },
+        {
+          "index": 5,
+          "textUthmani": "شَهْرٍۢ",
+          "textNormalized": "",
+          "charOffset": 40
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 598,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "تَنَزَّلُ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْمَلَٰٓئِكَةُ",
+          "textNormalized": "",
+          "charOffset": 10
+        },
+        {
+          "index": 2,
+          "textUthmani": "وَٱلرُّوحُ",
+          "textNormalized": "",
+          "charOffset": 26
+        },
+        {
+          "index": 3,
+          "textUthmani": "فِيهَا",
+          "textNormalized": "",
+          "charOffset": 37
+        },
+        {
+          "index": 4,
+          "textUthmani": "بِإِذْنِ",
+          "textNormalized": "",
+          "charOffset": 44
+        },
+        {
+          "index": 5,
+          "textUthmani": "رَبِّهِم",
+          "textNormalized": "",
+          "charOffset": 53
+        },
+        {
+          "index": 6,
+          "textUthmani": "مِّن",
+          "textNormalized": "",
+          "charOffset": 62
+        },
+        {
+          "index": 7,
+          "textUthmani": "كُلِّ",
+          "textNormalized": "",
+          "charOffset": 67
+        },
+        {
+          "index": 8,
+          "textUthmani": "أَمْرٍۢ",
+          "textNormalized": "",
+          "charOffset": 73
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 598,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "سَلَٰمٌ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "هِىَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "حَتَّىٰ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 3,
+          "textUthmani": "مَطْلَعِ",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْفَجْرِ",
+          "textNormalized": "",
+          "charOffset": 30
+        }
+      ]
+    }
+  ],
+  "ayahCount": 5
+}

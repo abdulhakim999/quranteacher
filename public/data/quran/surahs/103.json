@@ -1,0 +1,148 @@
+{
+  "number": 103,
+  "name": "سُورَةُ العَصۡرِ",
+  "nameEnglish": "Al-Asr",
+  "nameTransliteration": "The Declining Day, Epoch",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "وَٱلْعَصْرِ",
+          "textNormalized": "",
+          "charOffset": 39
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِنَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْإِنسَٰنَ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "لَفِى",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "خُسْرٍ",
+          "textNormalized": "",
+          "charOffset": 24
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِلَّا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلَّذِينَ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ءَامَنُوا۟",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "وَعَمِلُوا۟",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلصَّٰلِحَٰتِ",
+          "textNormalized": "",
+          "charOffset": 40
+        },
+        {
+          "index": 5,
+          "textUthmani": "وَتَوَاصَوْا۟",
+          "textNormalized": "",
+          "charOffset": 54
+        },
+        {
+          "index": 6,
+          "textUthmani": "بِٱلْحَقِّ",
+          "textNormalized": "",
+          "charOffset": 68
+        },
+        {
+          "index": 7,
+          "textUthmani": "وَتَوَاصَوْا۟",
+          "textNormalized": "",
+          "charOffset": 79
+        },
+        {
+          "index": 8,
+          "textUthmani": "بِٱلصَّبْرِ",
+          "textNormalized": "",
+          "charOffset": 93
+        }
+      ]
+    }
+  ],
+  "ayahCount": 3
+}

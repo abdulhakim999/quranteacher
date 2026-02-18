@@ -1,0 +1,124 @@
+{
+  "number": 108,
+  "name": "سُورَةُ الكَوۡثَرِ",
+  "nameEnglish": "Al-Kawthar",
+  "nameTransliteration": "Abundance",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 602,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "إِنَّآ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَعْطَيْنَٰكَ",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 6,
+          "textUthmani": "ٱلْكَوْثَرَ",
+          "textNormalized": "",
+          "charOffset": 61
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 602,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَصَلِّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "لِرَبِّكَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "وَٱنْحَرْ",
+          "textNormalized": "",
+          "charOffset": 18
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 602,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِنَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَانِئَكَ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "هُوَ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلْأَبْتَرُ",
+          "textNormalized": "",
+          "charOffset": 21
+        }
+      ]
+    }
+  ],
+  "ayahCount": 3
+}

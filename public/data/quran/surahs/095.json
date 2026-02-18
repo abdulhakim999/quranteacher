@@ -1,0 +1,318 @@
+{
+  "number": 95,
+  "name": "سُورَةُ التِّينِ",
+  "nameEnglish": "At-Tin",
+  "nameTransliteration": "The Fig",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِّسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 29
+        },
+        {
+          "index": 4,
+          "textUthmani": "وَٱلتِّينِ",
+          "textNormalized": "",
+          "charOffset": 40
+        },
+        {
+          "index": 5,
+          "textUthmani": "وَٱلزَّيْتُونِ",
+          "textNormalized": "",
+          "charOffset": 51
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "وَطُورِ سِينِينَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَطُورِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "سِينِينَ",
+          "textNormalized": "",
+          "charOffset": 8
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَهَٰذَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْبَلَدِ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْأَمِينِ",
+          "textNormalized": "",
+          "charOffset": 19
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "لَقَدْ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "خَلَقْنَا",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْإِنسَٰنَ",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "فِىٓ",
+          "textNormalized": "",
+          "charOffset": 29
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَحْسَنِ",
+          "textNormalized": "",
+          "charOffset": 34
+        },
+        {
+          "index": 5,
+          "textUthmani": "تَقْوِيمٍۢ",
+          "textNormalized": "",
+          "charOffset": 43
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "ثُمَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "رَدَدْنَٰهُ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "أَسْفَلَ",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "سَٰفِلِينَ",
+          "textNormalized": "",
+          "charOffset": 27
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِلَّا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلَّذِينَ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ءَامَنُوا۟",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "وَعَمِلُوا۟",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلصَّٰلِحَٰتِ",
+          "textNormalized": "",
+          "charOffset": 40
+        },
+        {
+          "index": 5,
+          "textUthmani": "فَلَهُمْ",
+          "textNormalized": "",
+          "charOffset": 54
+        },
+        {
+          "index": 6,
+          "textUthmani": "أَجْرٌ",
+          "textNormalized": "",
+          "charOffset": 63
+        },
+        {
+          "index": 7,
+          "textUthmani": "غَيْرُ",
+          "textNormalized": "",
+          "charOffset": 70
+        },
+        {
+          "index": 8,
+          "textUthmani": "مَمْنُونٍۢ",
+          "textNormalized": "",
+          "charOffset": 77
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَمَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يُكَذِّبُكَ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "بَعْدُ",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "بِٱلدِّينِ",
+          "textNormalized": "",
+          "charOffset": 25
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 597,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "أَلَيْسَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "بِأَحْكَمِ",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلْحَٰكِمِينَ",
+          "textNormalized": "",
+          "charOffset": 28
+        }
+      ]
+    }
+  ],
+  "ayahCount": 8
+}

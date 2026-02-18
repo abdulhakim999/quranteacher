@@ -1,0 +1,330 @@
+{
+  "number": 99,
+  "name": "سُورَةُ الزَّلۡزَلَةِ",
+  "nameEnglish": "Az-Zalzala",
+  "nameTransliteration": "The Earthquake",
+  "revelationType": "Medinan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "إِذَا",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "زُلْزِلَتِ",
+          "textNormalized": "",
+          "charOffset": 45
+        },
+        {
+          "index": 6,
+          "textUthmani": "ٱلْأَرْضُ",
+          "textNormalized": "",
+          "charOffset": 56
+        },
+        {
+          "index": 7,
+          "textUthmani": "زِلْزَالَهَا",
+          "textNormalized": "",
+          "charOffset": 66
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَأَخْرَجَتِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْأَرْضُ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 2,
+          "textUthmani": "أَثْقَالَهَا",
+          "textNormalized": "",
+          "charOffset": 23
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَقَالَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْإِنسَٰنُ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 20
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَهَا",
+          "textNormalized": "",
+          "charOffset": 24
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "يَوْمَئِذٍۢ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "تُحَدِّثُ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 2,
+          "textUthmani": "أَخْبَارَهَا",
+          "textNormalized": "",
+          "charOffset": 22
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِأَنَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "رَبَّكَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "أَوْحَىٰ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَهَا",
+          "textNormalized": "",
+          "charOffset": 25
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "يَوْمَئِذٍۢ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يَصْدُرُ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلنَّاسُ",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 3,
+          "textUthmani": "أَشْتَاتًۭا",
+          "textNormalized": "",
+          "charOffset": 30
+        },
+        {
+          "index": 4,
+          "textUthmani": "لِّيُرَوْا۟",
+          "textNormalized": "",
+          "charOffset": 42
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَعْمَٰلَهُمْ",
+          "textNormalized": "",
+          "charOffset": 54
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَمَن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يَعْمَلْ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "مِثْقَالَ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ذَرَّةٍ",
+          "textNormalized": "",
+          "charOffset": 25
+        },
+        {
+          "index": 4,
+          "textUthmani": "خَيْرًۭا",
+          "textNormalized": "",
+          "charOffset": 33
+        },
+        {
+          "index": 5,
+          "textUthmani": "يَرَهُۥ",
+          "textNormalized": "",
+          "charOffset": 42
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 599,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمَن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يَعْمَلْ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "مِثْقَالَ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ذَرَّةٍۢ",
+          "textNormalized": "",
+          "charOffset": 25
+        },
+        {
+          "index": 4,
+          "textUthmani": "شَرًّۭا",
+          "textNormalized": "",
+          "charOffset": 34
+        },
+        {
+          "index": 5,
+          "textUthmani": "يَرَهُۥ",
+          "textNormalized": "",
+          "charOffset": 42
+        }
+      ]
+    }
+  ],
+  "ayahCount": 8
+}

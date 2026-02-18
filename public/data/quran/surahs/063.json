@@ -1,0 +1,1308 @@
+{
+  "number": 63,
+  "name": "سُورَةُ المُنَافِقُونَ",
+  "nameEnglish": "Al-Munaafiqoon",
+  "nameTransliteration": "The Hypocrites",
+  "revelationType": "Medinan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 221,
+      "page": 554,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "إِذَا",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "جَآءَكَ",
+          "textNormalized": "",
+          "charOffset": 45
+        },
+        {
+          "index": 6,
+          "textUthmani": "ٱلْمُنَٰفِقُونَ",
+          "textNormalized": "",
+          "charOffset": 54
+        },
+        {
+          "index": 7,
+          "textUthmani": "قَالُوا۟",
+          "textNormalized": "",
+          "charOffset": 70
+        },
+        {
+          "index": 8,
+          "textUthmani": "نَشْهَدُ",
+          "textNormalized": "",
+          "charOffset": 79
+        },
+        {
+          "index": 9,
+          "textUthmani": "إِنَّكَ",
+          "textNormalized": "",
+          "charOffset": 88
+        },
+        {
+          "index": 10,
+          "textUthmani": "لَرَسُولُ",
+          "textNormalized": "",
+          "charOffset": 96
+        },
+        {
+          "index": 11,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 106
+        },
+        {
+          "index": 12,
+          "textUthmani": "ۗ",
+          "textNormalized": "",
+          "charOffset": 114
+        },
+        {
+          "index": 13,
+          "textUthmani": "وَٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 116
+        },
+        {
+          "index": 14,
+          "textUthmani": "يَعْلَمُ",
+          "textNormalized": "",
+          "charOffset": 126
+        },
+        {
+          "index": 15,
+          "textUthmani": "إِنَّكَ",
+          "textNormalized": "",
+          "charOffset": 135
+        },
+        {
+          "index": 16,
+          "textUthmani": "لَرَسُولُهُۥ",
+          "textNormalized": "",
+          "charOffset": 143
+        },
+        {
+          "index": 17,
+          "textUthmani": "وَٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 156
+        },
+        {
+          "index": 18,
+          "textUthmani": "يَشْهَدُ",
+          "textNormalized": "",
+          "charOffset": 166
+        },
+        {
+          "index": 19,
+          "textUthmani": "إِنَّ",
+          "textNormalized": "",
+          "charOffset": 175
+        },
+        {
+          "index": 20,
+          "textUthmani": "ٱلْمُنَٰفِقِينَ",
+          "textNormalized": "",
+          "charOffset": 181
+        },
+        {
+          "index": 21,
+          "textUthmani": "لَكَٰذِبُونَ",
+          "textNormalized": "",
+          "charOffset": 197
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 221,
+      "page": 554,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "ٱتَّخَذُوٓا۟",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَيْمَٰنَهُمْ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 2,
+          "textUthmani": "جُنَّةًۭ",
+          "textNormalized": "",
+          "charOffset": 27
+        },
+        {
+          "index": 3,
+          "textUthmani": "فَصَدُّوا۟",
+          "textNormalized": "",
+          "charOffset": 36
+        },
+        {
+          "index": 4,
+          "textUthmani": "عَن",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 5,
+          "textUthmani": "سَبِيلِ",
+          "textNormalized": "",
+          "charOffset": 51
+        },
+        {
+          "index": 6,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 59
+        },
+        {
+          "index": 7,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 67
+        },
+        {
+          "index": 8,
+          "textUthmani": "إِنَّهُمْ",
+          "textNormalized": "",
+          "charOffset": 69
+        },
+        {
+          "index": 9,
+          "textUthmani": "سَآءَ",
+          "textNormalized": "",
+          "charOffset": 79
+        },
+        {
+          "index": 10,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 86
+        },
+        {
+          "index": 11,
+          "textUthmani": "كَانُوا۟",
+          "textNormalized": "",
+          "charOffset": 90
+        },
+        {
+          "index": 12,
+          "textUthmani": "يَعْمَلُونَ",
+          "textNormalized": "",
+          "charOffset": 99
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 221,
+      "page": 554,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "ذَٰلِكَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "بِأَنَّهُمْ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "ءَامَنُوا۟",
+          "textNormalized": "",
+          "charOffset": 20
+        },
+        {
+          "index": 3,
+          "textUthmani": "ثُمَّ",
+          "textNormalized": "",
+          "charOffset": 31
+        },
+        {
+          "index": 4,
+          "textUthmani": "كَفَرُوا۟",
+          "textNormalized": "",
+          "charOffset": 37
+        },
+        {
+          "index": 5,
+          "textUthmani": "فَطُبِعَ",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 6,
+          "textUthmani": "عَلَىٰ",
+          "textNormalized": "",
+          "charOffset": 56
+        },
+        {
+          "index": 7,
+          "textUthmani": "قُلُوبِهِمْ",
+          "textNormalized": "",
+          "charOffset": 63
+        },
+        {
+          "index": 8,
+          "textUthmani": "فَهُمْ",
+          "textNormalized": "",
+          "charOffset": 75
+        },
+        {
+          "index": 9,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 82
+        },
+        {
+          "index": 10,
+          "textUthmani": "يَفْقَهُونَ",
+          "textNormalized": "",
+          "charOffset": 86
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 554,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "۞",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "وَإِذَا",
+          "textNormalized": "",
+          "charOffset": 2
+        },
+        {
+          "index": 2,
+          "textUthmani": "رَأَيْتَهُمْ",
+          "textNormalized": "",
+          "charOffset": 10
+        },
+        {
+          "index": 3,
+          "textUthmani": "تُعْجِبُكَ",
+          "textNormalized": "",
+          "charOffset": 23
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَجْسَامُهُمْ",
+          "textNormalized": "",
+          "charOffset": 34
+        },
+        {
+          "index": 5,
+          "textUthmani": "ۖ",
+          "textNormalized": "",
+          "charOffset": 48
+        },
+        {
+          "index": 6,
+          "textUthmani": "وَإِن",
+          "textNormalized": "",
+          "charOffset": 50
+        },
+        {
+          "index": 7,
+          "textUthmani": "يَقُولُوا۟",
+          "textNormalized": "",
+          "charOffset": 56
+        },
+        {
+          "index": 8,
+          "textUthmani": "تَسْمَعْ",
+          "textNormalized": "",
+          "charOffset": 67
+        },
+        {
+          "index": 9,
+          "textUthmani": "لِقَوْلِهِمْ",
+          "textNormalized": "",
+          "charOffset": 76
+        },
+        {
+          "index": 10,
+          "textUthmani": "ۖ",
+          "textNormalized": "",
+          "charOffset": 89
+        },
+        {
+          "index": 11,
+          "textUthmani": "كَأَنَّهُمْ",
+          "textNormalized": "",
+          "charOffset": 91
+        },
+        {
+          "index": 12,
+          "textUthmani": "خُشُبٌۭ",
+          "textNormalized": "",
+          "charOffset": 103
+        },
+        {
+          "index": 13,
+          "textUthmani": "مُّسَنَّدَةٌۭ",
+          "textNormalized": "",
+          "charOffset": 111
+        },
+        {
+          "index": 14,
+          "textUthmani": "ۖ",
+          "textNormalized": "",
+          "charOffset": 125
+        },
+        {
+          "index": 15,
+          "textUthmani": "يَحْسَبُونَ",
+          "textNormalized": "",
+          "charOffset": 127
+        },
+        {
+          "index": 16,
+          "textUthmani": "كُلَّ",
+          "textNormalized": "",
+          "charOffset": 139
+        },
+        {
+          "index": 17,
+          "textUthmani": "صَيْحَةٍ",
+          "textNormalized": "",
+          "charOffset": 145
+        },
+        {
+          "index": 18,
+          "textUthmani": "عَلَيْهِمْ",
+          "textNormalized": "",
+          "charOffset": 154
+        },
+        {
+          "index": 19,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 165
+        },
+        {
+          "index": 20,
+          "textUthmani": "هُمُ",
+          "textNormalized": "",
+          "charOffset": 167
+        },
+        {
+          "index": 21,
+          "textUthmani": "ٱلْعَدُوُّ",
+          "textNormalized": "",
+          "charOffset": 172
+        },
+        {
+          "index": 22,
+          "textUthmani": "فَٱحْذَرْهُمْ",
+          "textNormalized": "",
+          "charOffset": 183
+        },
+        {
+          "index": 23,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 197
+        },
+        {
+          "index": 24,
+          "textUthmani": "قَٰتَلَهُمُ",
+          "textNormalized": "",
+          "charOffset": 199
+        },
+        {
+          "index": 25,
+          "textUthmani": "ٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 211
+        },
+        {
+          "index": 26,
+          "textUthmani": "ۖ",
+          "textNormalized": "",
+          "charOffset": 219
+        },
+        {
+          "index": 27,
+          "textUthmani": "أَنَّىٰ",
+          "textNormalized": "",
+          "charOffset": 221
+        },
+        {
+          "index": 28,
+          "textUthmani": "يُؤْفَكُونَ",
+          "textNormalized": "",
+          "charOffset": 229
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَإِذَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "قِيلَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "لَهُمْ",
+          "textNormalized": "",
+          "charOffset": 14
+        },
+        {
+          "index": 3,
+          "textUthmani": "تَعَالَوْا۟",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 4,
+          "textUthmani": "يَسْتَغْفِرْ",
+          "textNormalized": "",
+          "charOffset": 33
+        },
+        {
+          "index": 5,
+          "textUthmani": "لَكُمْ",
+          "textNormalized": "",
+          "charOffset": 46
+        },
+        {
+          "index": 6,
+          "textUthmani": "رَسُولُ",
+          "textNormalized": "",
+          "charOffset": 53
+        },
+        {
+          "index": 7,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 61
+        },
+        {
+          "index": 8,
+          "textUthmani": "لَوَّوْا۟",
+          "textNormalized": "",
+          "charOffset": 69
+        },
+        {
+          "index": 9,
+          "textUthmani": "رُءُوسَهُمْ",
+          "textNormalized": "",
+          "charOffset": 79
+        },
+        {
+          "index": 10,
+          "textUthmani": "وَرَأَيْتَهُمْ",
+          "textNormalized": "",
+          "charOffset": 91
+        },
+        {
+          "index": 11,
+          "textUthmani": "يَصُدُّونَ",
+          "textNormalized": "",
+          "charOffset": 106
+        },
+        {
+          "index": 12,
+          "textUthmani": "وَهُم",
+          "textNormalized": "",
+          "charOffset": 117
+        },
+        {
+          "index": 13,
+          "textUthmani": "مُّسْتَكْبِرُونَ",
+          "textNormalized": "",
+          "charOffset": 123
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "سَوَآءٌ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "عَلَيْهِمْ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "أَسْتَغْفَرْتَ",
+          "textNormalized": "",
+          "charOffset": 20
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَهُمْ",
+          "textNormalized": "",
+          "charOffset": 35
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَمْ",
+          "textNormalized": "",
+          "charOffset": 42
+        },
+        {
+          "index": 5,
+          "textUthmani": "لَمْ",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 6,
+          "textUthmani": "تَسْتَغْفِرْ",
+          "textNormalized": "",
+          "charOffset": 52
+        },
+        {
+          "index": 7,
+          "textUthmani": "لَهُمْ",
+          "textNormalized": "",
+          "charOffset": 65
+        },
+        {
+          "index": 8,
+          "textUthmani": "لَن",
+          "textNormalized": "",
+          "charOffset": 72
+        },
+        {
+          "index": 9,
+          "textUthmani": "يَغْفِرَ",
+          "textNormalized": "",
+          "charOffset": 76
+        },
+        {
+          "index": 10,
+          "textUthmani": "ٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 85
+        },
+        {
+          "index": 11,
+          "textUthmani": "لَهُمْ",
+          "textNormalized": "",
+          "charOffset": 93
+        },
+        {
+          "index": 12,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 100
+        },
+        {
+          "index": 13,
+          "textUthmani": "إِنَّ",
+          "textNormalized": "",
+          "charOffset": 102
+        },
+        {
+          "index": 14,
+          "textUthmani": "ٱللَّهَ",
+          "textNormalized": "",
+          "charOffset": 108
+        },
+        {
+          "index": 15,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 116
+        },
+        {
+          "index": 16,
+          "textUthmani": "يَهْدِى",
+          "textNormalized": "",
+          "charOffset": 120
+        },
+        {
+          "index": 17,
+          "textUthmani": "ٱلْقَوْمَ",
+          "textNormalized": "",
+          "charOffset": 128
+        },
+        {
+          "index": 18,
+          "textUthmani": "ٱلْفَٰسِقِينَ",
+          "textNormalized": "",
+          "charOffset": 138
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "هُمُ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلَّذِينَ",
+          "textNormalized": "",
+          "charOffset": 5
+        },
+        {
+          "index": 2,
+          "textUthmani": "يَقُولُونَ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 26
+        },
+        {
+          "index": 4,
+          "textUthmani": "تُنفِقُوا۟",
+          "textNormalized": "",
+          "charOffset": 30
+        },
+        {
+          "index": 5,
+          "textUthmani": "عَلَىٰ",
+          "textNormalized": "",
+          "charOffset": 41
+        },
+        {
+          "index": 6,
+          "textUthmani": "مَنْ",
+          "textNormalized": "",
+          "charOffset": 48
+        },
+        {
+          "index": 7,
+          "textUthmani": "عِندَ",
+          "textNormalized": "",
+          "charOffset": 53
+        },
+        {
+          "index": 8,
+          "textUthmani": "رَسُولِ",
+          "textNormalized": "",
+          "charOffset": 59
+        },
+        {
+          "index": 9,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 67
+        },
+        {
+          "index": 10,
+          "textUthmani": "حَتَّىٰ",
+          "textNormalized": "",
+          "charOffset": 75
+        },
+        {
+          "index": 11,
+          "textUthmani": "يَنفَضُّوا۟",
+          "textNormalized": "",
+          "charOffset": 83
+        },
+        {
+          "index": 12,
+          "textUthmani": "ۗ",
+          "textNormalized": "",
+          "charOffset": 95
+        },
+        {
+          "index": 13,
+          "textUthmani": "وَلِلَّهِ",
+          "textNormalized": "",
+          "charOffset": 97
+        },
+        {
+          "index": 14,
+          "textUthmani": "خَزَآئِنُ",
+          "textNormalized": "",
+          "charOffset": 107
+        },
+        {
+          "index": 15,
+          "textUthmani": "ٱلسَّمَٰوَٰتِ",
+          "textNormalized": "",
+          "charOffset": 118
+        },
+        {
+          "index": 16,
+          "textUthmani": "وَٱلْأَرْضِ",
+          "textNormalized": "",
+          "charOffset": 132
+        },
+        {
+          "index": 17,
+          "textUthmani": "وَلَٰكِنَّ",
+          "textNormalized": "",
+          "charOffset": 144
+        },
+        {
+          "index": 18,
+          "textUthmani": "ٱلْمُنَٰفِقِينَ",
+          "textNormalized": "",
+          "charOffset": 155
+        },
+        {
+          "index": 19,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 171
+        },
+        {
+          "index": 20,
+          "textUthmani": "يَفْقَهُونَ",
+          "textNormalized": "",
+          "charOffset": 175
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "يَقُولُونَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "لَئِن",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 2,
+          "textUthmani": "رَّجَعْنَآ",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "إِلَى",
+          "textNormalized": "",
+          "charOffset": 29
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْمَدِينَةِ",
+          "textNormalized": "",
+          "charOffset": 35
+        },
+        {
+          "index": 5,
+          "textUthmani": "لَيُخْرِجَنَّ",
+          "textNormalized": "",
+          "charOffset": 48
+        },
+        {
+          "index": 6,
+          "textUthmani": "ٱلْأَعَزُّ",
+          "textNormalized": "",
+          "charOffset": 62
+        },
+        {
+          "index": 7,
+          "textUthmani": "مِنْهَا",
+          "textNormalized": "",
+          "charOffset": 73
+        },
+        {
+          "index": 8,
+          "textUthmani": "ٱلْأَذَلَّ",
+          "textNormalized": "",
+          "charOffset": 81
+        },
+        {
+          "index": 9,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 92
+        },
+        {
+          "index": 10,
+          "textUthmani": "وَلِلَّهِ",
+          "textNormalized": "",
+          "charOffset": 94
+        },
+        {
+          "index": 11,
+          "textUthmani": "ٱلْعِزَّةُ",
+          "textNormalized": "",
+          "charOffset": 104
+        },
+        {
+          "index": 12,
+          "textUthmani": "وَلِرَسُولِهِۦ",
+          "textNormalized": "",
+          "charOffset": 115
+        },
+        {
+          "index": 13,
+          "textUthmani": "وَلِلْمُؤْمِنِينَ",
+          "textNormalized": "",
+          "charOffset": 130
+        },
+        {
+          "index": 14,
+          "textUthmani": "وَلَٰكِنَّ",
+          "textNormalized": "",
+          "charOffset": 148
+        },
+        {
+          "index": 15,
+          "textUthmani": "ٱلْمُنَٰفِقِينَ",
+          "textNormalized": "",
+          "charOffset": 159
+        },
+        {
+          "index": 16,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 175
+        },
+        {
+          "index": 17,
+          "textUthmani": "يَعْلَمُونَ",
+          "textNormalized": "",
+          "charOffset": 179
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "يَٰٓأَيُّهَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلَّذِينَ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 2,
+          "textUthmani": "ءَامَنُوا۟",
+          "textNormalized": "",
+          "charOffset": 23
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَا",
+          "textNormalized": "",
+          "charOffset": 34
+        },
+        {
+          "index": 4,
+          "textUthmani": "تُلْهِكُمْ",
+          "textNormalized": "",
+          "charOffset": 38
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَمْوَٰلُكُمْ",
+          "textNormalized": "",
+          "charOffset": 49
+        },
+        {
+          "index": 6,
+          "textUthmani": "وَلَآ",
+          "textNormalized": "",
+          "charOffset": 63
+        },
+        {
+          "index": 7,
+          "textUthmani": "أَوْلَٰدُكُمْ",
+          "textNormalized": "",
+          "charOffset": 70
+        },
+        {
+          "index": 8,
+          "textUthmani": "عَن",
+          "textNormalized": "",
+          "charOffset": 84
+        },
+        {
+          "index": 9,
+          "textUthmani": "ذِكْرِ",
+          "textNormalized": "",
+          "charOffset": 88
+        },
+        {
+          "index": 10,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 95
+        },
+        {
+          "index": 11,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 103
+        },
+        {
+          "index": 12,
+          "textUthmani": "وَمَن",
+          "textNormalized": "",
+          "charOffset": 105
+        },
+        {
+          "index": 13,
+          "textUthmani": "يَفْعَلْ",
+          "textNormalized": "",
+          "charOffset": 111
+        },
+        {
+          "index": 14,
+          "textUthmani": "ذَٰلِكَ",
+          "textNormalized": "",
+          "charOffset": 120
+        },
+        {
+          "index": 15,
+          "textUthmani": "فَأُو۟لَٰٓئِكَ",
+          "textNormalized": "",
+          "charOffset": 128
+        },
+        {
+          "index": 16,
+          "textUthmani": "هُمُ",
+          "textNormalized": "",
+          "charOffset": 143
+        },
+        {
+          "index": 17,
+          "textUthmani": "ٱلْخَٰسِرُونَ",
+          "textNormalized": "",
+          "charOffset": 148
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَأَنفِقُوا۟",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "مِن",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَّا",
+          "textNormalized": "",
+          "charOffset": 17
+        },
+        {
+          "index": 3,
+          "textUthmani": "رَزَقْنَٰكُم",
+          "textNormalized": "",
+          "charOffset": 22
+        },
+        {
+          "index": 4,
+          "textUthmani": "مِّن",
+          "textNormalized": "",
+          "charOffset": 35
+        },
+        {
+          "index": 5,
+          "textUthmani": "قَبْلِ",
+          "textNormalized": "",
+          "charOffset": 40
+        },
+        {
+          "index": 6,
+          "textUthmani": "أَن",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 7,
+          "textUthmani": "يَأْتِىَ",
+          "textNormalized": "",
+          "charOffset": 51
+        },
+        {
+          "index": 8,
+          "textUthmani": "أَحَدَكُمُ",
+          "textNormalized": "",
+          "charOffset": 60
+        },
+        {
+          "index": 9,
+          "textUthmani": "ٱلْمَوْتُ",
+          "textNormalized": "",
+          "charOffset": 71
+        },
+        {
+          "index": 10,
+          "textUthmani": "فَيَقُولَ",
+          "textNormalized": "",
+          "charOffset": 81
+        },
+        {
+          "index": 11,
+          "textUthmani": "رَبِّ",
+          "textNormalized": "",
+          "charOffset": 91
+        },
+        {
+          "index": 12,
+          "textUthmani": "لَوْلَآ",
+          "textNormalized": "",
+          "charOffset": 97
+        },
+        {
+          "index": 13,
+          "textUthmani": "أَخَّرْتَنِىٓ",
+          "textNormalized": "",
+          "charOffset": 106
+        },
+        {
+          "index": 14,
+          "textUthmani": "إِلَىٰٓ",
+          "textNormalized": "",
+          "charOffset": 120
+        },
+        {
+          "index": 15,
+          "textUthmani": "أَجَلٍۢ",
+          "textNormalized": "",
+          "charOffset": 128
+        },
+        {
+          "index": 16,
+          "textUthmani": "قَرِيبٍۢ",
+          "textNormalized": "",
+          "charOffset": 136
+        },
+        {
+          "index": 17,
+          "textUthmani": "فَأَصَّدَّقَ",
+          "textNormalized": "",
+          "charOffset": 145
+        },
+        {
+          "index": 18,
+          "textUthmani": "وَأَكُن",
+          "textNormalized": "",
+          "charOffset": 158
+        },
+        {
+          "index": 19,
+          "textUthmani": "مِّنَ",
+          "textNormalized": "",
+          "charOffset": 166
+        },
+        {
+          "index": 20,
+          "textUthmani": "ٱلصَّٰلِحِينَ",
+          "textNormalized": "",
+          "charOffset": 172
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "textNormalized": "",
+      "juz": 28,
+      "hizb": 222,
+      "page": 555,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَلَن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يُؤَخِّرَ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "نَفْسًا",
+          "textNormalized": "",
+          "charOffset": 24
+        },
+        {
+          "index": 4,
+          "textUthmani": "إِذَا",
+          "textNormalized": "",
+          "charOffset": 32
+        },
+        {
+          "index": 5,
+          "textUthmani": "جَآءَ",
+          "textNormalized": "",
+          "charOffset": 38
+        },
+        {
+          "index": 6,
+          "textUthmani": "أَجَلُهَا",
+          "textNormalized": "",
+          "charOffset": 45
+        },
+        {
+          "index": 7,
+          "textUthmani": "ۚ",
+          "textNormalized": "",
+          "charOffset": 55
+        },
+        {
+          "index": 8,
+          "textUthmani": "وَٱللَّهُ",
+          "textNormalized": "",
+          "charOffset": 57
+        },
+        {
+          "index": 9,
+          "textUthmani": "خَبِيرٌۢ",
+          "textNormalized": "",
+          "charOffset": 67
+        },
+        {
+          "index": 10,
+          "textUthmani": "بِمَا",
+          "textNormalized": "",
+          "charOffset": 76
+        },
+        {
+          "index": 11,
+          "textUthmani": "تَعْمَلُونَ",
+          "textNormalized": "",
+          "charOffset": 82
+        }
+      ]
+    }
+  ],
+  "ayahCount": 11
+}

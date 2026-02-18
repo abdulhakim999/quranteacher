@@ -1,0 +1,222 @@
+{
+  "number": 105,
+  "name": "سُورَةُ الفِيلِ",
+  "nameEnglish": "Al-Fil",
+  "nameTransliteration": "The Elephant",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَلَمْ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "تَرَ",
+          "textNormalized": "",
+          "charOffset": 46
+        },
+        {
+          "index": 6,
+          "textUthmani": "كَيْفَ",
+          "textNormalized": "",
+          "charOffset": 51
+        },
+        {
+          "index": 7,
+          "textUthmani": "فَعَلَ",
+          "textNormalized": "",
+          "charOffset": 58
+        },
+        {
+          "index": 8,
+          "textUthmani": "رَبُّكَ",
+          "textNormalized": "",
+          "charOffset": 65
+        },
+        {
+          "index": 9,
+          "textUthmani": "بِأَصْحَٰبِ",
+          "textNormalized": "",
+          "charOffset": 73
+        },
+        {
+          "index": 10,
+          "textUthmani": "ٱلْفِيلِ",
+          "textNormalized": "",
+          "charOffset": 85
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "أَلَمْ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يَجْعَلْ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "كَيْدَهُمْ",
+          "textNormalized": "",
+          "charOffset": 16
+        },
+        {
+          "index": 3,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 27
+        },
+        {
+          "index": 4,
+          "textUthmani": "تَضْلِيلٍۢ",
+          "textNormalized": "",
+          "charOffset": 31
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَأَرْسَلَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "عَلَيْهِمْ",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 2,
+          "textUthmani": "طَيْرًا",
+          "textNormalized": "",
+          "charOffset": 22
+        },
+        {
+          "index": 3,
+          "textUthmani": "أَبَابِيلَ",
+          "textNormalized": "",
+          "charOffset": 30
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "تَرْمِيهِم",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "بِحِجَارَةٍۢ",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 2,
+          "textUthmani": "مِّن",
+          "textNormalized": "",
+          "charOffset": 24
+        },
+        {
+          "index": 3,
+          "textUthmani": "سِجِّيلٍۢ",
+          "textNormalized": "",
+          "charOffset": 29
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 601,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَجَعَلَهُمْ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "كَعَصْفٍۢ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَّأْكُولٍۭ",
+          "textNormalized": "",
+          "charOffset": 23
+        }
+      ]
+    }
+  ],
+  "ayahCount": 5
+}

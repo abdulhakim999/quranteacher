@@ -1,0 +1,222 @@
+{
+  "number": 111,
+  "name": "سُورَةُ المَسَدِ",
+  "nameEnglish": "Al-Masad",
+  "nameTransliteration": "The Palm Fibre",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 603,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "تَبَّتْ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "يَدَآ",
+          "textNormalized": "",
+          "charOffset": 47
+        },
+        {
+          "index": 6,
+          "textUthmani": "أَبِى",
+          "textNormalized": "",
+          "charOffset": 54
+        },
+        {
+          "index": 7,
+          "textUthmani": "لَهَبٍۢ",
+          "textNormalized": "",
+          "charOffset": 60
+        },
+        {
+          "index": 8,
+          "textUthmani": "وَتَبَّ",
+          "textNormalized": "",
+          "charOffset": 68
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 603,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مَآ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَغْنَىٰ",
+          "textNormalized": "",
+          "charOffset": 5
+        },
+        {
+          "index": 2,
+          "textUthmani": "عَنْهُ",
+          "textNormalized": "",
+          "charOffset": 14
+        },
+        {
+          "index": 3,
+          "textUthmani": "مَالُهُۥ",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 4,
+          "textUthmani": "وَمَا",
+          "textNormalized": "",
+          "charOffset": 30
+        },
+        {
+          "index": 5,
+          "textUthmani": "كَسَبَ",
+          "textNormalized": "",
+          "charOffset": 36
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 603,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "سَيَصْلَىٰ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "نَارًۭا",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 2,
+          "textUthmani": "ذَاتَ",
+          "textNormalized": "",
+          "charOffset": 19
+        },
+        {
+          "index": 3,
+          "textUthmani": "لَهَبٍۢ",
+          "textNormalized": "",
+          "charOffset": 25
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 603,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَٱمْرَأَتُهُۥ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "حَمَّالَةَ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْحَطَبِ",
+          "textNormalized": "",
+          "charOffset": 26
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 603,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "جِيدِهَا",
+          "textNormalized": "",
+          "charOffset": 4
+        },
+        {
+          "index": 2,
+          "textUthmani": "حَبْلٌۭ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 3,
+          "textUthmani": "مِّن",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 4,
+          "textUthmani": "مَّسَدٍۭ",
+          "textNormalized": "",
+          "charOffset": 26
+        }
+      ]
+    }
+  ],
+  "ayahCount": 5
+}

@@ -1,0 +1,276 @@
+{
+  "number": 94,
+  "name": "سُورَةُ الشَّرۡحِ",
+  "nameEnglish": "Ash-Sharh",
+  "nameTransliteration": "The Consolation",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "أَلَمْ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "نَشْرَحْ",
+          "textNormalized": "",
+          "charOffset": 46
+        },
+        {
+          "index": 6,
+          "textUthmani": "لَكَ",
+          "textNormalized": "",
+          "charOffset": 55
+        },
+        {
+          "index": 7,
+          "textUthmani": "صَدْرَكَ",
+          "textNormalized": "",
+          "charOffset": 60
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَوَضَعْنَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "عَنكَ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 2,
+          "textUthmani": "وِزْرَكَ",
+          "textNormalized": "",
+          "charOffset": 18
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "ٱلَّذِىٓ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَنقَضَ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "ظَهْرَكَ",
+          "textNormalized": "",
+          "charOffset": 17
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَرَفَعْنَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "لَكَ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 2,
+          "textUthmani": "ذِكْرَكَ",
+          "textNormalized": "",
+          "charOffset": 17
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَإِنَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "مَعَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْعُسْرِ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 3,
+          "textUthmani": "يُسْرًا",
+          "textNormalized": "",
+          "charOffset": 23
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِنَّ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "مَعَ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْعُسْرِ",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 3,
+          "textUthmani": "يُسْرًۭا",
+          "textNormalized": "",
+          "charOffset": 21
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَإِذَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "فَرَغْتَ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "فَٱنصَبْ",
+          "textNormalized": "",
+          "charOffset": 17
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 239,
+      "page": 596,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَإِلَىٰ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "رَبِّكَ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "فَٱرْغَب",
+          "textNormalized": "",
+          "charOffset": 17
+        }
+      ]
+    }
+  ],
+  "ayahCount": 8
+}

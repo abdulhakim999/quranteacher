@@ -1,0 +1,222 @@
+{
+  "number": 113,
+  "name": "سُورَةُ الفَلَقِ",
+  "nameEnglish": "Al-Falaq",
+  "nameTransliteration": "The Dawn",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "قُلْ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَعُوذُ",
+          "textNormalized": "",
+          "charOffset": 44
+        },
+        {
+          "index": 6,
+          "textUthmani": "بِرَبِّ",
+          "textNormalized": "",
+          "charOffset": 52
+        },
+        {
+          "index": 7,
+          "textUthmani": "ٱلْفَلَقِ",
+          "textNormalized": "",
+          "charOffset": 60
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مِن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَرِّ",
+          "textNormalized": "",
+          "charOffset": 4
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 10
+        },
+        {
+          "index": 3,
+          "textUthmani": "خَلَقَ",
+          "textNormalized": "",
+          "charOffset": 14
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمِن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَرِّ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "غَاسِقٍ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 3,
+          "textUthmani": "إِذَا",
+          "textNormalized": "",
+          "charOffset": 20
+        },
+        {
+          "index": 4,
+          "textUthmani": "وَقَبَ",
+          "textNormalized": "",
+          "charOffset": 26
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمِن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَرِّ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلنَّفَّٰثَٰتِ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 3,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 27
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْعُقَدِ",
+          "textNormalized": "",
+          "charOffset": 31
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمِن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَرِّ",
+          "textNormalized": "",
+          "charOffset": 6
+        },
+        {
+          "index": 2,
+          "textUthmani": "حَاسِدٍ",
+          "textNormalized": "",
+          "charOffset": 12
+        },
+        {
+          "index": 3,
+          "textUthmani": "إِذَا",
+          "textNormalized": "",
+          "charOffset": 20
+        },
+        {
+          "index": 4,
+          "textUthmani": "حَسَدَ",
+          "textNormalized": "",
+          "charOffset": 26
+        }
+      ]
+    }
+  ],
+  "ayahCount": 5
+}

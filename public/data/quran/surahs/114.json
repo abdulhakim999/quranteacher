@@ -1,0 +1,214 @@
+{
+  "number": 114,
+  "name": "سُورَةُ النَّاسِ",
+  "nameEnglish": "An-Naas",
+  "nameTransliteration": "Mankind",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "قُلْ",
+          "textNormalized": "",
+          "charOffset": 39
+        },
+        {
+          "index": 5,
+          "textUthmani": "أَعُوذُ",
+          "textNormalized": "",
+          "charOffset": 44
+        },
+        {
+          "index": 6,
+          "textUthmani": "بِرَبِّ",
+          "textNormalized": "",
+          "charOffset": 52
+        },
+        {
+          "index": 7,
+          "textUthmani": "ٱلنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 60
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مَلِكِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 7
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "إِلَٰهِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 8
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مِن",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "شَرِّ",
+          "textNormalized": "",
+          "charOffset": 4
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلْوَسْوَاسِ",
+          "textNormalized": "",
+          "charOffset": 10
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلْخَنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 23
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "ٱلَّذِى",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يُوَسْوِسُ",
+          "textNormalized": "",
+          "charOffset": 8
+        },
+        {
+          "index": 2,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 19
+        },
+        {
+          "index": 3,
+          "textUthmani": "صُدُورِ",
+          "textNormalized": "",
+          "charOffset": 23
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 31
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 604,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مِنَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْجِنَّةِ",
+          "textNormalized": "",
+          "charOffset": 5
+        },
+        {
+          "index": 2,
+          "textUthmani": "وَٱلنَّاسِ",
+          "textNormalized": "",
+          "charOffset": 16
+        }
+      ]
+    }
+  ],
+  "ayahCount": 6
+}

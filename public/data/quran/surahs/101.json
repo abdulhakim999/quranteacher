@@ -1,0 +1,360 @@
+{
+  "number": 101,
+  "name": "سُورَةُ القَارِعَةِ",
+  "nameEnglish": "Al-Qaari'a",
+  "nameTransliteration": "The Calamity",
+  "revelationType": "Meccan",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "بِسْمِ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱللَّهِ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلرَّحْمَٰنِ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلرَّحِيمِ",
+          "textNormalized": "",
+          "charOffset": 28
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْقَارِعَةُ",
+          "textNormalized": "",
+          "charOffset": 39
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْقَارِعَةُ",
+          "textNormalized": "",
+          "charOffset": 4
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمَآ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَدْرَىٰكَ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلْقَارِعَةُ",
+          "textNormalized": "",
+          "charOffset": 22
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "يَوْمَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "يَكُونُ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "ٱلنَّاسُ",
+          "textNormalized": "",
+          "charOffset": 15
+        },
+        {
+          "index": 3,
+          "textUthmani": "كَٱلْفَرَاشِ",
+          "textNormalized": "",
+          "charOffset": 24
+        },
+        {
+          "index": 4,
+          "textUthmani": "ٱلْمَبْثُوثِ",
+          "textNormalized": "",
+          "charOffset": 37
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَتَكُونُ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "ٱلْجِبَالُ",
+          "textNormalized": "",
+          "charOffset": 10
+        },
+        {
+          "index": 2,
+          "textUthmani": "كَٱلْعِهْنِ",
+          "textNormalized": "",
+          "charOffset": 21
+        },
+        {
+          "index": 3,
+          "textUthmani": "ٱلْمَنفُوشِ",
+          "textNormalized": "",
+          "charOffset": 33
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَأَمَّا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "مَن",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "ثَقُلَتْ",
+          "textNormalized": "",
+          "charOffset": 13
+        },
+        {
+          "index": 3,
+          "textUthmani": "مَوَٰزِينُهُۥ",
+          "textNormalized": "",
+          "charOffset": 22
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَهُوَ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "فِى",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "عِيشَةٍۢ",
+          "textNormalized": "",
+          "charOffset": 11
+        },
+        {
+          "index": 3,
+          "textUthmani": "رَّاضِيَةٍۢ",
+          "textNormalized": "",
+          "charOffset": 20
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَأَمَّا",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "مَنْ",
+          "textNormalized": "",
+          "charOffset": 9
+        },
+        {
+          "index": 2,
+          "textUthmani": "خَفَّتْ",
+          "textNormalized": "",
+          "charOffset": 14
+        },
+        {
+          "index": 3,
+          "textUthmani": "مَوَٰزِينُهُۥ",
+          "textNormalized": "",
+          "charOffset": 22
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "فَأُمُّهُۥ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "هَاوِيَةٌۭ",
+          "textNormalized": "",
+          "charOffset": 11
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "وَمَآ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "أَدْرَىٰكَ",
+          "textNormalized": "",
+          "charOffset": 7
+        },
+        {
+          "index": 2,
+          "textUthmani": "مَا",
+          "textNormalized": "",
+          "charOffset": 18
+        },
+        {
+          "index": 3,
+          "textUthmani": "هِيَهْ",
+          "textNormalized": "",
+          "charOffset": 22
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "textNormalized": "",
+      "juz": 30,
+      "hizb": 240,
+      "page": 600,
+      "words": [
+        {
+          "index": 0,
+          "textUthmani": "نَارٌ",
+          "textNormalized": "",
+          "charOffset": 0
+        },
+        {
+          "index": 1,
+          "textUthmani": "حَامِيَةٌۢ",
+          "textNormalized": "",
+          "charOffset": 6
+        }
+      ]
+    }
+  ],
+  "ayahCount": 11
+}
